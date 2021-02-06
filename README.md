@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my master thesis at the fraunhofer institure
+- 🔭 I’m currently working on my master thesis at the Fraunhofer Institute
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on interesting projects
 <!-- - 🤔 I’m looking for help with ...
